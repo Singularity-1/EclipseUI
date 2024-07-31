@@ -37,6 +37,8 @@
     "prop-types": "^15.8.1",
     "sass": "^1.70.0",
     "storybook": "^8.2.6",
+    "tsup": "^8.2.3",
+    "typescript": "^5.5.4",
     "vite": "^5.0.8"
   }
 }
